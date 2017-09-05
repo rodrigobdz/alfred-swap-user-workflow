@@ -21,13 +21,13 @@ Swaps automatically to the next user
 
 
 
-## Usage
+## Usage
 
 ![Swap User Usage](images/swap_user.png?raw=true "Example Usage")
 
 
 
-## How does it work
+## How does it work
 
 From the users listed when running the following command:
 

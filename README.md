@@ -38,6 +38,11 @@ dscacheutil -q user | grep -A 3 -B 2 -e uid:\ 5'0-9'
 the script excludes the current user and takes the first user from the ones remaining.
 
 
+## Links
+
+* [Packal](http://www.packal.org/workflow/swap-user)
+* [Alfred Forum](https://www.alfredforum.com/topic/11495-workflow-swap-user-quickly-switch-between-mac-accounts/)
+
 
 ## Credits
 

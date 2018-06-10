@@ -35,3 +35,7 @@ the script excludes the current user and takes the first user from the ones rema
 ## Credits
 
 - Workflow icon by [Icons8](https://icons8.com)
+
+## License
+
+[MIT](LICENSE) © [rodrigobdz](https://rodrigobdz.github.io/).

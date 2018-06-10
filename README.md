@@ -1,8 +1,6 @@
-# Alfred Workflow: Swap User
+# <img src="images/logo.png" width="40"> Alfred Workflow: Swap User
 
 Swaps automatically to the next user
-
-
 
 ## Requirements
 
@@ -10,22 +8,14 @@ Swaps automatically to the next user
 - Alfred Powerpack
 - Assistive access enabled in System Preferences > Universal Access
 
-
-
-
 ## Installation
 
-1. Download the **.alfredworkflow** file
-2. Double click to install
-
-
-
+1.  Download the **.alfredworkflow** file
+2.  Double click to install
 
 ## Usage
 
 ![Swap User Usage](images/swap_user.png?raw=true "Example Usage")
-
-
 
 ## How does it work
 
@@ -37,13 +27,11 @@ dscacheutil -q user | grep -A 3 -B 2 -e uid:\ 5'0-9'
 
 the script excludes the current user and takes the first user from the ones remaining.
 
-
 ## Links
 
-* [Packal](http://www.packal.org/workflow/swap-user)
-* [Alfred Forum](https://www.alfredforum.com/topic/11495-workflow-swap-user-quickly-switch-between-mac-accounts/)
-
+- [Packal](http://www.packal.org/workflow/swap-user)
+- [Alfred Forum](https://www.alfredforum.com/topic/11495-workflow-swap-user-quickly-switch-between-mac-accounts/)
 
 ## Credits
 
-* Workflow icon by [Icons8](https://icons8.com)
+- Workflow icon by [Icons8](https://icons8.com)

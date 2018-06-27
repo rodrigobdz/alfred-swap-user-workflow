@@ -22,7 +22,7 @@ Swaps automatically to the next user
 From the users listed when running the following command:
 
 ```bash
-dscacheutil -q user | grep -A 3 -B 2 -e uid:\ 5'0-9'
+dscacheutil -q user | grep -A3 -B2 -e 5'[0-9][0-2']
 ```
 
 the script excludes the current user and takes the first user from the ones remaining.

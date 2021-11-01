@@ -7,6 +7,7 @@ Swaps automatically to the next user
 - [Alfred](http://www.alfredapp.com/)
 - Alfred Powerpack
 - Assistive access enabled in System Preferences > Universal Access
+- macOS 10.15 (Catalina) or older, where the script `/System/Library/CoreServices/Menu\ Extras/CGSession` is present.
 
 ## Installation
 
